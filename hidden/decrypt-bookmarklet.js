@@ -97,9 +97,9 @@ try {
   if (params.unencrypted) {
     window.location.href = params.url;
   } else {
-    window.location.href = "https://jstrieb.github.io/link-lock/" + window.location.hash;
+    window.location.href = "https://arvindh123.github.io/link-lock/" + window.location.hash;
   }
 } catch {
-  window.location.replace("https://gmail.com");
+  window.location.replace("");
 }
 })();
